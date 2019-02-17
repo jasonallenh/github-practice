@@ -1,0 +1,1 @@
+directory navigation in git bash includes pwd, cd, ls, mkdir, and cat
